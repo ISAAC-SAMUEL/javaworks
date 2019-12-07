@@ -1,0 +1,71 @@
+body{
+    background-color: black;
+    margin: 20px
+}
+h1{
+    color: white;
+    float: left;
+    text-align: left;
+    
+}
+ol{
+    float: right;
+}
+
+li{
+    color: white;
+   display: inline-block;
+
+   padding: 10px;
+   font-size: 28px;
+   margin-left: 20px;
+   font-weight: lighter;
+   text-align: center;
+
+}
+li:hover{
+    border-bottom: sienna solid; 
+}
+p{
+  color: white;
+  font-size: 60px;
+  top:70px;
+}
+.hire{
+    border: solid;
+    background-color: sienna;
+    border-color: black;
+    border-radius: 25px;
+    
+}
+a{
+    text-decoration: none;
+    color: white
+}
+a:hover{
+    border-style: double;
+    color: chocolate;
+    border-radius: 25px;
+}
+.works{
+    border: solid;
+    border-color: white;
+    border-radius:25px;
+    color: sienna;
+}
+img{
+    width: 500px;
+    height: 700px;
+    position: absolute;
+    right: 150px;
+    top: 100px;
+    
+
+    
+    
+}
+    
+
+
+
+
